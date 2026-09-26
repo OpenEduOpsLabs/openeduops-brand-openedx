@@ -18,7 +18,7 @@
         "$description": "Primary color of level 100."
       },
       "base": {
-        "$value": "#15376D",
+        "$value": "#BA4514",
         "source": "$primary",
         "$description": "Basic primary color."
       },
